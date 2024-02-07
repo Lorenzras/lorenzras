@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I recently started leetcode!
+I recently started [leetcode](https://leetcode.com/)!
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Lenzras)
 
