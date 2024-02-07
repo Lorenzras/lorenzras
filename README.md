@@ -10,6 +10,6 @@ I recently started [leetcode](https://leetcode.com/)!
 - 👯 I’m looking to collaborate on a startup project.
 - 🤔 I’m looking for help with reducing costs with AI Chatbot.
 - 💬 Ask me about anything.
-- I speak Tagalog (Philippines) natively, English conversationaly, and some Japanese:anime.
+- I speak native Tagalog (Philippines), conversational English, and some Japanese I learned from work and anime.
 
 
