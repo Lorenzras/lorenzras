@@ -8,7 +8,7 @@ I recently started [leetcode](https://leetcode.com/)! (2024.02.08)
 - 🔭 I’m currently working as a Programmer in Japan.
 - 🌱 I’m currently learning AI Embeddings, Golang, and other tech that looks promising.
 - 👯 I’m looking to collaborate on a startup project.
-- 🤔 I’m looking for help with reducing costs with AI Chatbot.
+- 🤔 I’m looking for help with reducing openAI API costs.
 - 💬 Ask me about anything.
 - I speak native Tagalog (Philippines), conversational English, and some Japanese I learned from work and anime.
 
