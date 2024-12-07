@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I recently started [leetcode](https://leetcode.com/)! (2024.02.08)
+### Leet
+
+I recently started [leetcode](https://leetcode.com/) to learn Go!
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Lenzras)
 
@@ -10,5 +12,6 @@ I recently started [leetcode](https://leetcode.com/)! (2024.02.08)
 - 🤔 I’m looking for help with reducing openAI API costs.
 - 💬 Ask me about anything.
 - I speak native Tagalog (Philippines), conversational English, and some Japanese I learned from work and anime.
+- Some of my repositories from gigs are private.
 
 
