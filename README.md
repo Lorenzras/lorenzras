@@ -12,5 +12,5 @@ I recently started [leetcode](https://leetcode.com/) to learn Go!
 - 🤔 I’m looking for help with reducing openAI API costs.
 - 💬 Ask me about anything.
 - I speak native Tagalog (Philippines), conversational English, and some Japanese I learned from work and anime.
-- All of my repositories from gigs are private, while the repositories used for learning and hobbies are public.
+- All of my repositories from gigs are private, while some of the repositories used for learning and hobbies are public.
 
